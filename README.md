@@ -39,4 +39,8 @@ As stated this can be ignored if you use json files or want to plug into an API 
     The one we did in year 1 - Remember use PgADMIN to manage it 
     
     [Link](https://www.postgresql.org/)
-    
+***
+## Deployment
+* #### Heroku
+          deploy for free
+          [Link](https://www.heroku.com/)
