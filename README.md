@@ -42,5 +42,6 @@ As stated this can be ignored if you use json files or want to plug into an API 
 ***
 ## Deployment
 * #### Heroku
-          deploy for free
-          [Link](https://www.heroku.com/)
+     deploy for free
+     
+     [Link](https://www.heroku.com/)
